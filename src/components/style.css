@@ -1,0 +1,11 @@
+.Navbar-container{
+    width: 100%;
+    background-color: black;
+    height: 8vh;
+}
+.Navs{
+    padding: 5px 5px 5px 20px;
+    font-size: 2rem;
+    display: flex;
+    gap: 30px;  
+}
